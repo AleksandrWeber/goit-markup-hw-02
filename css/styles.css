@@ -69,6 +69,10 @@ a {
   color: #404bbf;
 }
 
+.contacts {
+  font-style: normal;
+}
+
 /* Hero Section */
 .hero {
   background-color: #2e2f42;
@@ -80,6 +84,7 @@ a {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 
 .hero-btn {
